@@ -1,1 +1,3 @@
 # web-dev-task
+This is main branch this contains only Readme file, for frontend(figma) part switch to task 1 branch...
+For backend and api part switch to task2 branch which contains html, css annd js file.
